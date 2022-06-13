@@ -15,6 +15,10 @@ Voici la liste des différents fichiers proposés dans AppleDOS-0 :
 			<td>Cette commande permet de lancer l'interpréteur de commande Apple DOS du style Apple II.</td>
 		</tr>  
 		<tr>
+			<td><b>ASM6502.PAS</b></td>
+			<td>Cette commande permet de lancer le compilateur de langage de programmation assembleur pour les microprocesseur 6502.</td>
+		</tr>
+		<tr>
 			<td><b>UNBINSCII.PAS</td>
 			<td>Cette commande permet d'extraire les fichiers d'un <a href="https://www.gladir.com/LEXIQUE/FICHIERS/bsq.htm">BSQ</a> d'Apple II. Cette commande est originaire de ProDOS et de l'Apple II.</td>
 		</tr>	
