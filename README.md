@@ -34,9 +34,9 @@ Sinon, vous pouvez également le compiler avec le Turbo Pascal à l'aide de la s
 
 <pre><b>tpc</b> <i>LEFICHIER.PAS</i></pre>
 	
-Par exemple, si vous voulez compiler GREP.PAS, vous devrez tapez la commande suivante :
+Par exemple, si vous voulez compiler APPLEDOS.PAS, vous devrez tapez la commande suivante :
 
-<pre><b>fpc</b> GREP.PAS</pre>
+<pre><b>fpc</b> APPLEDOS.PAS</pre>
 
 <h2>Licence</h2>
 <ul>
